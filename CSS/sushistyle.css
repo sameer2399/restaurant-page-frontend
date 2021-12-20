@@ -1,0 +1,51 @@
+body{
+    background-color: #0e110f;
+    
+}
+video{
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    margin-left: -75%;
+    margin-top: -55%;
+    z-index: 1;
+    opacity: 0.8;
+    
+}
+div{
+    
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 200px;
+    
+}
+
+h1{
+    background-color: yellow;
+    font-family: 'Nothing You Could Do', cursive;
+    font-size: 1.9em;
+    margin-bottom: 50px;
+    opacity: 0.5;
+}
+
+p{
+    font-size: large;
+    margin-top: -40px;
+    margin-bottom: 30px;
+    font-family: 'Nothing You Could Do', cursive, bold;
+    background-color: #fff;
+    opacity: 0.5;
+}
+
+a{  
+    margin: o auto;
+    font-size: x-large;
+    color: snow;
+    border: 2px orangered solid;
+    padding: 8px;
+    opacity: 0.6;
+    
+}
